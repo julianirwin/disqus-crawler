@@ -1,6 +1,7 @@
 Blog Comments Crawler
 =====================
 
+Modified version of [louisguitton's code](https://github.com/louisguitton/disqus-crawler)
 
 What is it?
 -----------
