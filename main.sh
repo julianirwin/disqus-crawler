@@ -14,4 +14,4 @@ echo 'CARJACKING ...' $Content
 scrapy crawl json_grabber -a url=$Content
 
 # Save the comments to a MongoDB database disqus.comments
-python get_posts.py
+python3 get_posts.py
